@@ -92,8 +92,8 @@ This project follows **modern security best practices**, eliminates repeated log
 ### ✅ Installation
 
 ```bash
-git clone https://github.com/yourusername/token-auth-system.git
-cd token-auth-system
+git clone https://github.com/ahmadishfaqdogar/AspNet-JWT-Login.git
+cd AspNet-JWT-Login
 dotnet restore
 dotnet run
 ```
