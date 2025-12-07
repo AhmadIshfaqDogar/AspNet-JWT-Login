@@ -189,9 +189,9 @@ Don’t forget to **star ⭐ the repository** and share with the developer commu
 
 ## 👨‍💻 Author
 
-**Developed by:** *[Your Name]*
+**Developed by:** *[Ahmad Ishfaq]*
 **Tech Stack:** ASP.NET Core | JWT | Security Architecture
-**Contact:** *[Your Email / LinkedIn]*
+**Contact:** *[https://linkedin.com/in/ahmadishfaq]*
 
 ---
 
