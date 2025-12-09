@@ -1,0 +1,32 @@
+## Build folders
+bin/
+obj/
+
+## Visual Studio
+.vs/
+
+## User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Logs
+*.log
+
+## Secrets
+appsettings.Development.json
+appsettings.Production.json
+appsettings.json
+## OS files
+.DS_Store
+Thumbs.db
+
+## Packages
+node_modules/
+
+## Rider / VSCode
+.idea/
+.vscode/
+
+app.db
